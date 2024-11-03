@@ -4,7 +4,7 @@ published: 2023-10-01
 description: A simple example of a Markdown blog post.
 tags: [Markdown, Blogging, Demo]
 category: Examples
-draft: false
+draft: true
 ---
 
 # An h1 header
@@ -44,7 +44,7 @@ from the left side). Here's a code sample:
 
     # Let me re-iterate ...
     for i in 1 .. 10 { do-something(i) }
-
+    
 As you probably guessed, indented 4 spaces. By the way, instead of
 indenting the block, you can use delimited blocks, if you like:
 
